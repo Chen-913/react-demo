@@ -1,0 +1,3 @@
+@tailwind base; /* tailwind 的基本样式，即重置浏览器样式 */
+@tailwind components; /* tailwind 定义的组件类 */
+@tailwind utilities; /* tailwind 的实用程序类，是 tailwind 核心 */
